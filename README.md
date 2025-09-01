@@ -86,7 +86,7 @@ Now we have a bigger view of the changes we just did under the Preview tab. You 
 
 ![nWm6qeieaE.gif](assets/nWm6qeieaE.gif)
 
-Take a good look above those tabs (Preview | Code | Blame), where you see the name of your repository and then a forward slash "/" followed by the name of the file we are working on, which is README.md. This is the URL to get to this section of your GitHub repository. Without getting into heavy detail, what exactly is a URL, and all the fancy things you can do with it. This URL is our pathway; we need to learn how to operate it for some advanced features for our website, like adding pictures, videos, and many other essential tools.
+Take a good look above those tabs \(Preview \| Code \| Blame\), where you see the name of your repository and then a forward slash "/" followed by the name of the file we are working on, which is README.md. This is the URL to get to this section of your GitHub repository. Without getting into heavy detail, what exactly is a URL, and all the fancy things you can do with it. This URL is our pathway; we need to learn how to operate it for some advanced features for our website, like adding pictures, videos, and many other essential tools.
 
 ![firefox_XYh2jHm9Fs.gif](assets/firefox_XYh2jHm9Fs.gif)
 
