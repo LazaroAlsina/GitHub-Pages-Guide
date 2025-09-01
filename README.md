@@ -365,7 +365,7 @@ Example:
 `![photo](assets/photo.png)`
 
 ![firefox_OO8kysJgp3.gif](assets/firefox_OO8kysJgp3.gif)  
-![80e6422deddcef1e3b5cdf2c4b9659f9.png](assets/80e6422deddcef1e3b5cdf2c4b9659f9.png)
+![80e6422deddcef1e3b5cdf2c4b9659f9.png](assets/firefox_6EBfchqJqc.png)
 
 This can be very complex if it's your first time. If you get stuck here, please let me know, as the more you use it, the better you understand it. Also, not all themes have logos. You will have to add it in a different way.
 
