@@ -60,7 +60,7 @@ Great job! Now it's time to configure your Repository, but first, let's learn ho
 (If you see this screen, it's because you did not add a README.md, click on the hyperlink README to add it.)  
 ![firefox_9Fc3BbnOj8.png](assets/firefox_9Fc3BbnOj8.png)  
 **How to fix this:**  
-![firefox_wyCQsh6wKY.gif](assetsfirefox_wyCQsh6wKY.gif)
+![firefox_wyCQsh6wKY.gif](assets/firefox_wyCQsh6wKY.gif)
 
 Once you click on the README, click on the green button on the top right that says "commit changes", and then click on "commit changes". Click on Code on the top left of your screen, and you should be good to go.
 
