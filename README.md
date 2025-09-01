@@ -59,7 +59,7 @@ This is a special feature in GitHub that enables us to host a site on GitHub Pag
 
 First, you have to sign up or log in to your GitHub account. Once you're done that, it's time to build a Repository.
 
-![k86GH3UNyg.gif](:/55016c468ac240a1a5d41ca15a35a6bd)
+![k86GH3UNyg.gif](assets/k86GH3UNyg.gif)
 
 ### Making your Repository
 
@@ -69,7 +69,7 @@ Once you are logged in, add a new repository. Sometimes, you will be in the Over
 ![ngV6Wgl2fo.gif](assets/ngV6Wgl2fo.gif)
 
 **GitHub Overview**  
-![w0AYiTwEsa.gif](:/063b84ba398c49c082da7d631d5e1740)
+![w0AYiTwEsa.gif](assets/w0AYiTwEsa.gif)
 
 #### Git Hubs Interface
 
@@ -77,13 +77,13 @@ The Repository should have a name that makes sense for what you are doing. If it
 
 Once a name is given, toggle the "Add README" from Off to On. This is very important as it's needed for us to get Jekyll to work. Then click on "Create repository".
 
-![firefox_APppkoIBxd.gif](:/2a7a57cc6aaa4e37971031e41d3f03c9)
+![firefox_APppkoIBxd.gif](assets/firefox_APppkoIBxd.gif)
 
 Great job! Now it's time to configure your Repository, but first, let's learn how to navigate a repository.  
 (If you see this screen, it's because you did not add a README.md, click on the hyperlink README to add it.)  
-![firefox_9Fc3BbnOj8.png](:/54207cfced72452791dd905f0b9413c8)  
+![firefox_9Fc3BbnOj8.png](assets/firefox_9Fc3BbnOj8.png)  
 **How to fix this:**  
-![firefox_wyCQsh6wKY.gif](:/331eddddd3944021ae7215d37e221c4b)
+![firefox_wyCQsh6wKY.gif](assetsfirefox_wyCQsh6wKY.gif)
 
 Once you click on the README, click on the green button on the top right that says "commit changes", and then click on "commit changes". Click on Code on the top left of your screen, and you should be good to go.
 
@@ -91,13 +91,13 @@ Once you click on the README, click on the green button on the top right that sa
 
 When your Repository is made, it should automatically bring you to your code tab. This is where you should see your README.md file. This file is critical for what we are doing, and we should have a basic idea of how to operate GitHub; luckily, the hardest part of GitHub (~~Other than the coding~~) is navigating the website and all of its large features that it offers.
 
-![firefox_b98Ag4yLxT.png](:/8834946bfbfb4d569bd443d5b97d2281)
+![firefox_b98Ag4yLxT.png](assets/firefox_b98Ag4yLxT.png)
 
 #### Code Tab
 
 The Code tab is where we go to change our code. There is also something there called branches and tags; we don't have to worry about those, including the other code button in green. The only thing we need to play with is the pencil button next to the README that we made. **Click on it**.
 
-![firefox_r8BdQuP5y7.gif](:/ebc6620ef48e4292b29c5caa49fa98d7)
+![firefox_r8BdQuP5y7.gif](assets/firefox_r8BdQuP5y7.gif)
 
 That is our code; it should just have a # with whatever name you made. Change it a bit and then click on the green button on the top right that says Commit changes.
 
