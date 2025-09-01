@@ -1,5 +1,26 @@
 title: GitHub Guide
 #logo: /assets/
-description: A special guide for my students
+description: "- [How to make a Portfolio with GitHub Pages](#how-to-make-a-portfolio-with-github-pages)
+    - [What is GitHub](#what-is-github)
+    - [GitHub Pages](#github-pages)
+    - [Jekyll](#jekyll)
+    - [How to start a Repository and a website](#how-to-start-a-repository-and-a-website)
+        - [Sign up for GitHub](#sign-up-for-github)
+        - [Making your Repository](#making-your-repository)
+        - [Navigating your Repository and starting your website](#navigating-your-repository-and-starting-your-website)
+            - [Code Tab](#code-tab)
+            - [Settings Tab](#settings-tab)
+                - [YML](#yml)
+            - [Action Tab](#action-tab)
+    - [Configuring Jekyll and selecting your Theme](#configuring-jekyll-and-selecting-your-theme)
+        - [Jekyll's Docs](#jekylls-docs)
+        - [Adding a file to your Repository](#adding-a-file-to-your-repository)
+            - [\_Config.yml](#_configyml)
+    - [Markdown](#markdown)
+        - [Editing your README.md](#editing-your-readmemd)
+        - [Editing your \_Config.yml again](#editing-your-_configyml-again)
+            - [Adding a picture](#adding-a-picture)
+            - [File management](#file-management)
+    - [Show of your work](#show-of-your-work)"
 show_downloads: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-Minimal
