@@ -78,7 +78,7 @@ The Code tab is where we go to change our code. There is also something there ca
 
 That is our code; it should just have a # with whatever name you made. Change it a bit and then click on the green button on the top right that says Commit changes.
 
-![9is0A196O3.gif](assets/[9is0A196O3.gif)
+![9is0A196O3.gif](assets/9is0A196O3.gif)
 
 You can add more details if you like; this is best practice for those who code and work with others, but for our current purpose, these details are not as important. We can just click on the other green button that says "Commit changes.".
 
