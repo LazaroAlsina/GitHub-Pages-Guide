@@ -101,21 +101,21 @@ The Code tab is where we go to change our code. There is also something there ca
 
 That is our code; it should just have a # with whatever name you made. Change it a bit and then click on the green button on the top right that says Commit changes.
 
-![9is0A196O3.gif](:/a9046f0bdbd048ccb973e37621b42f49)
+![9is0A196O3.gif](assets/[9is0A196O3.gif)
 
 You can add more details if you like; this is best practice for those who code and work with others, but for our current purpose, these details are not as important. We can just click on the other green button that says "Commit changes.".
 
 Now we have a bigger view of the changes we just did under the Preview tab. You can also switch between Code and Blame, another feature from GitHub for Collaborations that we don't need, but is good to know in case you get lost navigating here. We will be editing this README a lot for our Portfolio.
 
-![nWm6qeieaE.gif](:/7ee7cf4bf423475bb9913b163ba2bd50)
+![nWm6qeieaE.gif](assets/nWm6qeieaE.gif)
 
 Take a good look above those tabs (Preview | Code | Blame), where you see the name of your repository and then a forward slash "/" followed by the name of the file we are working on, which is README.md. This is the URL to get to this section of your GitHub repository. Without getting into heavy detail, what exactly is a URL, and all the fancy things you can do with it. This URL is our pathway; we need to learn how to operate it for some advanced features for our website, like adding pictures, videos, and many other essential tools.
 
-![firefox_XYh2jHm9Fs.gif](:/b3b1c04bbc18455db4d134a49ddb6ddf)
+![firefox_XYh2jHm9Fs.gif](assets/firefox_XYh2jHm9Fs.gif)
 
 The terminology we use when managing these pathways is known as directories. If you use Microsoft or Apple products, you are probably already familiar with directories; they are commonly referred to as folders. They are, in general, the same and can be used interchangeably. Still, many guides out there that you may want to use for your own research may call them directories and mention root pathways, which is another fancy way of saying the main folder that holds all the data you need for a job.
 
-![explorer_QCcrLvh3Ml.png](:/9a1041cf72ed4b919d83155c87efa15e)
+![explorer_QCcrLvh3Ml.png](assets/explorer_QCcrLvh3Ml.png)
 
 A lot of times this main folder "Root" hold all the folders and is considered the parent of every folder relative to its use (of course, this is super simplified, as root has many meanings and essential uses, but for our purposes, the root here is your repository name that holds all of our folders and data(pictures for our portfolio)). A lot of times, you will see just one forward slash "/". This is known as the root.
 
@@ -150,31 +150,31 @@ A lot of times this main folder "Root" hold all the folders and is considered th
 
 Let's click on the "Code" tab again, and now we are back to the main page of the repository. Once again, we are back to the main section of our repository. Now that we have an idea of how to navigate the Code section, let's move on to a more challenging section—the Settings Tab.
 
-![firefox_mjZchixWN5.gif](:/e0981fb1237147d49f7528fff980219b)
+![firefox_mjZchixWN5.gif](assets/firefox_mjZchixWN5.gif)
 
 #### Settings Tab
 
 On the last side of your tabs, where you first click on "Code" to your right, you should see a settings tab. This setting differs from the profile setting at the top right of your GitHub. This Setting applies only to your repository, and we need to go inside this to start and configure our Jekyll, finally. **Click on it**.
 
-![LXorHT0CXh.gif](:/1a79ecfd09034a8bb3cff46b43205dcf)
+![LXorHT0CXh.gif](assets/LXorHT0CXh.gif)
 
 Don't be shocked by the massive amount of information here; we only need to navigate to one section in this setting. **Pages**, which is on the left side of the navigation bar. **Click on it**.
 
-![firefox_DOQzZ4QYBl.gif](:/c5ac3d61df344dc29424e8ebd2687405)
+![firefox_DOQzZ4QYBl.gif](assets/firefox_DOQzZ4QYBl.gif)
 
 Now, locate the GitHub Pages section where it says "Build and deployment". There should be a drop-down menu that allows you to select "GitHub Actions". Once you do this, you should see GitHub Pages Jekyll right underneath it. **Click on** Configure that is related to Jekyll.
 
-![firefox_VLG0aT1sa3.gif](:/ed5fde780e5c46388956c03d1fd81904)
+![firefox_VLG0aT1sa3.gif](assets/firefox_VLG0aT1sa3.gif)
 
 ##### YML
 
 This is a configuration file, which uses YML, a language used to organize and configure programs. We don't need to learn this; other than that, we need to click on the green button that says "Commit Changes" and then click on the green button again.
 
-![ugrJqfrBDu.gif](:/87d0c002bd17466ba54b84d206ee4e2e)
+![ugrJqfrBDu.gif](assets/ugrJqfrBDu.gif)
 
 Notice our pathway, it goes all the way to workflows, click on the root(the name of your repository).
 
-![q41Qs6DTFG.gif](:/66ee1e54e38444f88c43f1b1b8e7529b)
+![q41Qs6DTFG.gif](assets/q41Qs6DTFG.gif)
 
 We now have our Jekyll configured to run, but how do we see and edit our website? We need to now go to the "Action Tab".
 
@@ -182,12 +182,12 @@ We now have our Jekyll configured to run, but how do we see and edit our website
 
 **Click on** the Action Tab, which is two tabs to the right of **Code**. There is a lot of cool information here, but the page that is needed here is "Deployments," which is on the left side under "Management". **Click on** Deployments.
 
-![firefox_tVEZzRheV8.gif](:/10877ab5d1c1419a98552a23176fa8a3)  
-![firefox_hh2qHbi6DS.gif](:/832d2d2b38c242fabd17783411c508e1)
+![firefox_tVEZzRheV8.gif](assets/firefox_tVEZzRheV8.gif)  
+![firefox_hh2qHbi6DS.gif](assets/firefox_hh2qHbi6DS.gif)
 
 You should be able to see a link to your portfolio; the first hyperlink should take you there. Bookmark it or keep it safe on a separate page, as you will need to switch and refresh each time a change is made. (These changes can take time)
 
-![firefox_bemCaFieio.gif](:/a139672797dc43668973ccd64d9da1f5)
+![firefox_bemCaFieio.gif](assets/firefox_bemCaFieio.gif)
 
 Now that we have the basic website up and running using GitHub Pages, we will focus on configuring our Jekyll using some code in YAML(YML) to customize it. This is where we will add our theme and some important information.
 
@@ -201,7 +201,7 @@ This page, [GitHub Docs Jekyll](https://docs.github.com/en/pages/setting-up-a-gi
 
 Scroll down a bit and look at the supported themes. We will be selecting one of these themes. I personally prefer the "minimal" theme, so you will see it used in this guide. Once you have found a theme you want, remember how its spelled. If you wish to view these themes before using them, click on the hyperlink associated with the name that fascinates you, such as **Architect**. Right under **"About"**, located on the right side of the green button that is labeled "Code", you should see a hyperlink labeled "https://pages-themes.github.io/architect/". Once you click on it, you can see how it looks, along with a guide on how to use Markdown.
 
-![firefox_fdVe8OgAzD.gif](:/a5dcc3975b004bea94f81b9f87d66b75)
+![firefox_fdVe8OgAzD.gif](assets/firefox_fdVe8OgAzD.gif)
 
 You can follow the guide on Jekyll and end your guide here if you prefer, but if you struggle to follow their instructions, you can continue with this guide.
 
@@ -215,7 +215,7 @@ We need to create a file called '\_config.yml' and we must spell it just like th
 
 Go back to your "Code Tab" and click on "Add File", which is next to "Code", the green button. Then click on "Create new file".
 
-![firefox_F6pXJuqz5N.gif](:/d85af439cdaa4f2aa6799ad600f330b6)
+![firefox_F6pXJuqz5N.gif](assets/firefox_F6pXJuqz5N.gif)
 
 Here, you want to name the file "\_config.yml" and copy and paste this code into it. (The Code is case sensitive.)
 
@@ -227,14 +227,14 @@ show_downloads: false
 theme: jekyll-theme-Minimal
 ```
 
-![firefox_9lMa1oEIxb.gif](:/f51bc5e926b041feb56f9e90af386cc2)  
+![firefox_9lMa1oEIxb.gif](assets/firefox_9lMa1oEIxb.gif)  
 (Important note: Not all themes have a logo; check your sample and see if it has a logo.)
 
 This code here allows us to make a title, in which you can change it to your name, add a picture, which could be a beautiful picture of you, with a bit of description on it, with your theme that you selected! There is also the Show Downloads option, which allows people to download your resume; however, this guide is quite lengthy, so that we won't explore that route.
 
 Commit the change and return to the "Action Tab". If you're fast enough, you should see a yellow circle indicating that your website is being deployed. Every time we make a save, change, add a file, or even remove one, we will see this happening, and the website will change accordingly. Once it's green, open up your website and see the change!
 
-![firefox_QjtMWR8ZSG.gif](:/ed3f7574527a49dba48e35efc0ad45e8)
+![firefox_QjtMWR8ZSG.gif](assets/firefox_QjtMWR8ZSG.gif)
 
 Now that we have configured and set up our website, it's time to learn how to add content to our site. In other words, how are we using **Markdown** to build our Portfolio?
 
@@ -320,7 +320,7 @@ MM/YYYY – MM/YYYY
 - Interests: [Optional – relevant to career goals]  
 ```
 
-![firefox_BedfAwqwJq.gif](:/8486ac6f8e234993b113e2dbb65e23b5)
+![firefox_BedfAwqwJq.gif](assets/firefox_BedfAwqwJq.gif)
 
 Yes, I did ask ChatGPT to give me a template as an example here. You could use this one or make your own; all of these are good options, but you should try to copy your resume to this README.md.
 
@@ -336,7 +336,7 @@ For us to add a picture, we need to upload that file (~~Just like on Facebook~~)
 
 In the "Code tab" of your repository, click on "Add file" and we will upload any picture you like! Select a professional photo of yourself, and let's see how it looks on the website!
 
-![firefox_zX7O24PS65.gif](:/312c46a1b390498981bb2a069049f2b0)
+![firefox_zX7O24PS65.gif](assets/firefox_zX7O24PS65.gif)
 
 Commit changes, and let's talk about the directory(folder) again, as it's relevant!
 
@@ -344,8 +344,8 @@ Commit changes, and let's talk about the directory(folder) again, as it's releva
 
 If you upload a file and do not give it a pathway or a folder, you should see it on your main page. Notice the special folder we have, which is where our Jekyll works are located, called ".github/workflows". This is the pathway to get inside this folder. We have to know how pathways work in order to use Markdown to display the information we want. The information in our case is the photo. Locate the uploaded file, click on it until you see the image, and notice the copy sign next to the pathway(it looks like a URL). Copy it as we will need that.
 
-![firefox_CcGaIQpLFN.png](:/b2ce1203ace7423282235544bfc862e9)  
-![firefox_LOuPo8DD6S.gif](:/f1026aa2896848109b45107cbbcddf0f)
+![firefox_CcGaIQpLFN.png](assets/firefox_CcGaIQpLFN.png)  
+![firefox_LOuPo8DD6S.gif](assets/firefox_LOuPo8DD6S.gif)
 
 There are different ways to display your image on your website.
 
@@ -353,8 +353,8 @@ There are different ways to display your image on your website.
 Then, in your files, click on "\_Config.yml", edit it, and paste that code after `logo:` , but make sure to remove "`/assets/`" first before you place it, or just replace it with the pathway. If everything was done right, a picture should have been uploaded to your website!
 
 Example: my photo is called 1675520777149.jpg and its copied pathway is `1675520777149.jpg`.  
-![firefox_Uk89iCbWk2.gif](:/8e58515185f74b3fbe77066db4054ac6)  
-![firefox_gVsq3RjmV5.png](:/a1d29f2a113844bab05a2abd2bc206e7)
+![firefox_Uk89iCbWk2.gif](assets/firefox_Uk89iCbWk2.gif)  
+![firefox_gVsq3RjmV5.png](assets/firefox_gVsq3RjmV5.png)
 
 **If you are using a theme that does not support logos, you have to add your logo to your Markdown**
 
@@ -364,8 +364,8 @@ Go and edit your "README.md" and add your photo somewhere in your file. This is 
 Example:  
 `![photo](assets/photo.png)`
 
-![firefox_OO8kysJgp3.gif](:/5d1b9124a7c94782ac8aad149e89e5b1)  
-![80e6422deddcef1e3b5cdf2c4b9659f9.png](:/6864c090b87d43a4b5808cd025c9578b)
+![firefox_OO8kysJgp3.gif](assets/firefox_OO8kysJgp3.gif)  
+![80e6422deddcef1e3b5cdf2c4b9659f9.png](assets/80e6422deddcef1e3b5cdf2c4b9659f9.png)
 
 This can be very complex if it's your first time. If you get stuck here, please let me know, as the more you use it, the better you understand it. Also, not all themes have logos. You will have to add it in a different way.
 
