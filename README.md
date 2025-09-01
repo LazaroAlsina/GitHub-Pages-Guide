@@ -66,7 +66,7 @@ First, you have to sign up or log in to your GitHub account. Once you're done th
 Once you are logged in, add a new repository. Sometimes, you will be in the Overview section, which provides a dashboard of your activities or a home page with a dashboard. Depending on the page you are on, creating a new repository may be located at the top left or right, marked by a green button.
 
 **Home Dashboard/Home**  
-![ngV6Wgl2fo.gif](:/4881ceade78b4980aa9d51fa0251a8bd)
+![ngV6Wgl2fo.gif](assets/ngV6Wgl2fo.gif)
 
 **GitHub Overview**  
 ![w0AYiTwEsa.gif](:/063b84ba398c49c082da7d631d5e1740)
