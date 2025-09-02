@@ -57,8 +57,8 @@ Once a name is given, toggle the "Add README" from Off to On. This is very impor
 ![firefox_APppkoIBxd.gif](assets/firefox_APppkoIBxd.gif)
 
 Great job! Now it's time to configure your Repository, but first, let's learn how to navigate a repository.  
-(If you see this screen, it's because you did not add a README.md, click on the hyperlink README to add it.)  
 ![firefox_9Fc3BbnOj8.png](assets/firefox_9Fc3BbnOj8.png)  
+(If you see this screen, it's because you did not add a README.md, click on the hyperlink README to add it.)  
 **How to fix this:**  
 ![firefox_wyCQsh6wKY.gif](assets/firefox_wyCQsh6wKY.gif)
 
@@ -84,17 +84,15 @@ You can add more details if you like; this is best practice for those who code a
 
 Now we have a bigger view of the changes we just did under the Preview tab. You can also switch between Code and Blame, another feature from GitHub for Collaborations that we don't need, but is good to know in case you get lost navigating here. We will be editing this README a lot for our Portfolio.
 
-![nWm6qeieaE.gif](assets/nWm6qeieaE.gif)
-
 Take a good look above those tabs \(Preview \| Code \| Blame\), where you see the name of your repository and then a forward slash "/" followed by the name of the file we are working on, which is README.md. This is the URL to get to this section of your GitHub repository. Without getting into heavy detail, what exactly is a URL, and all the fancy things you can do with it. This URL is our pathway; we need to learn how to operate it for some advanced features for our website, like adding pictures, videos, and many other essential tools.
-
-![firefox_XYh2jHm9Fs.gif](assets/firefox_XYh2jHm9Fs.gif)
+![nWm6qeieaE.gif](assets/nWm6qeieaE.gif)
 
 The terminology we use when managing these pathways is known as directories. If you use Microsoft or Apple products, you are probably already familiar with directories; they are commonly referred to as folders. They are, in general, the same and can be used interchangeably. Still, many guides out there that you may want to use for your own research may call them directories and mention root pathways, which is another fancy way of saying the main folder that holds all the data you need for a job.
 
-![explorer_QCcrLvh3Ml.png](assets/explorer_QCcrLvh3Ml.png)
+![firefox_XYh2jHm9Fs.gif](assets/firefox_XYh2jHm9Fs.gif)
 
 A lot of times this main folder "Root" hold all the folders and is considered the parent of every folder relative to its use (of course, this is super simplified, as root has many meanings and essential uses, but for our purposes, the root here is your repository name that holds all of our folders and data(pictures for our portfolio)). A lot of times, you will see just one forward slash "/". This is known as the root.
+![explorer_QCcrLvh3Ml.png](assets/explorer_QCcrLvh3Ml.png)
 
 **Example of a root directory of a Linux System:**
 
