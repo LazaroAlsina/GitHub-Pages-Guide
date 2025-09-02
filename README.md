@@ -86,13 +86,13 @@ Now we have a bigger view of the changes we just did under the Preview tab. You 
 
 Take a good look above those tabs \(Preview \| Code \| Blame\), where you see the name of your repository and then a forward slash "/" followed by the name of the file we are working on, which is README.md. This is the URL to get to this section of your GitHub repository. Without getting into heavy detail, what exactly is a URL, and all the fancy things you can do with it. This URL is our pathway; we need to learn how to operate it for some advanced features for our website, like adding pictures, videos, and many other essential tools.
 ![nWm6qeieaE.gif](assets/nWm6qeieaE.gif)
+![firefox_XYh2jHm9Fs.gif](assets/firefox_XYh2jHm9Fs.gif)
 
 The terminology we use when managing these pathways is known as directories. If you use Microsoft or Apple products, you are probably already familiar with directories; they are commonly referred to as folders. They are, in general, the same and can be used interchangeably. Still, many guides out there that you may want to use for your own research may call them directories and mention root pathways, which is another fancy way of saying the main folder that holds all the data you need for a job.
 
-![firefox_XYh2jHm9Fs.gif](assets/firefox_XYh2jHm9Fs.gif)
+![explorer_QCcrLvh3Ml.png](assets/explorer_QCcrLvh3Ml.png)
 
 A lot of times this main folder "Root" hold all the folders and is considered the parent of every folder relative to its use (of course, this is super simplified, as root has many meanings and essential uses, but for our purposes, the root here is your repository name that holds all of our folders and data(pictures for our portfolio)). A lot of times, you will see just one forward slash "/". This is known as the root.
-![explorer_QCcrLvh3Ml.png](assets/explorer_QCcrLvh3Ml.png)
 
 **Example of a root directory of a Linux System:**
 
@@ -221,7 +221,7 @@ As a matter of fact, this whole guide is using nothing but Markdown, and its sta
 
 Here are the basics of using Markdown.
 
-Pound signs (what people call hashtags nowadays, "#" nowadays) are used to make headers. The more # you place, the smaller the text will seem. These are great for organizing your writing.
+Pound signs (what people call hashtags nowadays, "#") are used to make headers. The more # you place, the smaller the text will seem. These are great for organizing your writing.
 
 Another common one would be \**Bold*\* with the wild character. Some people call it the star. This one has to be encapsulated where the beginning has two \*\*, then you add the text you want, then it ends with the \*\*. If you fail to add an ending to the **Bold**, the language has no idea where it stops, so it may make everything bold until you give it a stopping point.
 
